@@ -11364,3 +11364,46 @@ msgstr ""
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "عذراً، لم يُعثر على نتائج."
+#: lms/static/js/groups/views/cohort_editor.js:237
+msgid "{numPreassigned} learner was pre-assigned for this cohort. This learner will automatically be added to the cohort when they enroll in the course.{numPreassigned} learners were pre-assigned for this cohort. These learners will automatically be added to the cohort when they enroll in the course."
+msgstr "حدث خطأ أثناء محاولة إضافة الطلاب:"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:71
+msgid "query param next is provide"
+msgstr "معلمة الاستعلام next داخلية"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:73
+msgid "query param next is internal"
+msgstr "معلمة وضع الدورة غير موفرة"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:140
+msgid "course mode param is not provided"
+msgstr "معلمة وضع الدورة موفرة"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:148
+msgid "course mode param is provided"
+msgstr "تم العثور على {total_results} نتيجة لـ \"{search_term}\""
+
+#: xmodule/assets/library_content/public/js/library_content_edit.js:64
+#: xmodule/js/public/js/library_content_edit.js:64
+msgid "Migrating to Problem Bank"
+msgstr "%(value)s ساعة"
+
+#: xmodule/js/src/html/edit.js:920
+msgid "Paste your embed code below:"
+msgstr "لا تظهر نتائج التقييم الفردية أبدًا، ولكن تظهر نتائج التقييم العامة بعد تاريخ الاستحقاق"
+
+#: cms/templates/js/show-correctness-editor.underscore:40
+msgid "Never show individual assessment results, but show overall assessment results after due date"
+msgstr "لا يرون الطلاب الدقة أو الدرجات على مستوى السؤال قبل أو بعد تاريخ الاستحقاق. ومع ذلك، بمجرد مرور تاريخ الاستحقاق، يمكنهم رؤية درجة إجمالية لهم في القسم على صفحة التقدم."
+
+#: cms/templates/js/show-correctness-editor.underscore:43
+msgid "Learners do not see question-level correctness or scores before or after the due date. However, once the due date passes, they can see their overall score for the subsection on the Progress page."
+msgstr "عرض التعليق (%(num_comments)s)"
+
+#: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
+#: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14
+#, python-brace-format
+msgid "Load next {num_items} result"
+msgstr "عذرًا، لم يتم العثور على أي نتائج."
+
