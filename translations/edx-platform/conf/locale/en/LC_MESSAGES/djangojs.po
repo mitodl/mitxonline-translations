@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-22 00:39+0000\n"
+"POT-Creation-Date: 2025-12-30 00:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5060,7 +5060,7 @@ msgstr ""
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
-#: xmodule/js/src/capa/display.js:248
+#: xmodule/js/src/capa/display.js:235
 msgid "{num_points} point possible (graded, results hidden)"
 msgid_plural "{num_points} points possible (graded, results hidden)"
 msgstr[0] ""
@@ -5068,7 +5068,7 @@ msgstr[1] ""
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
-#: xmodule/js/src/capa/display.js:255
+#: xmodule/js/src/capa/display.js:242
 msgid "{num_points} point possible (ungraded, results hidden)"
 msgid_plural "{num_points} points possible (ungraded, results hidden)"
 msgstr[0] ""
@@ -5076,7 +5076,7 @@ msgstr[1] ""
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
-#: xmodule/js/src/capa/display.js:266
+#: xmodule/js/src/capa/display.js:253
 msgid "{num_points} point possible (graded)"
 msgid_plural "{num_points} points possible (graded)"
 msgstr[0] ""
@@ -5084,7 +5084,7 @@ msgstr[1] ""
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
-#: xmodule/js/src/capa/display.js:273
+#: xmodule/js/src/capa/display.js:259
 msgid "{num_points} point possible (ungraded)"
 msgid_plural "{num_points} points possible (ungraded)"
 msgstr[0] ""
@@ -5094,7 +5094,7 @@ msgstr[1] ""
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
 #. points will always be at least 1. We pluralize based on the total number of
 #. points (example: 0/1 point; 1/2 points);
-#: xmodule/js/src/capa/display.js:284
+#: xmodule/js/src/capa/display.js:269
 msgid "{earned}/{possible} point (graded)"
 msgid_plural "{earned}/{possible} points (graded)"
 msgstr[0] ""
@@ -5104,54 +5104,54 @@ msgstr[1] ""
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
 #. points will always be at least 1. We pluralize based on the total number of
 #. points (example: 0/1 point; 1/2 points);
-#: xmodule/js/src/capa/display.js:292
+#: xmodule/js/src/capa/display.js:276
 msgid "{earned}/{possible} point (ungraded)"
 msgid_plural "{earned}/{possible} points (ungraded)"
 msgstr[0] ""
 msgstr[1] ""
 
-#: xmodule/js/src/capa/display.js:373
+#: xmodule/js/src/capa/display.js:356
 msgid "The grading process is still running. Refresh the page to see updates."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:486
+#: xmodule/js/src/capa/display.js:465
 msgid "Could not grade your answer. The submission was aborted."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:567
+#: xmodule/js/src/capa/display.js:529
 msgid ""
 "Submission aborted! Sorry, your browser does not support file uploads. If "
 "you can, please use Chrome or Safari which have been verified to support "
 "file uploads."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:595
+#: xmodule/js/src/capa/display.js:555
 msgid "You submitted {filename}; only {allowedFiles} are allowed."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:608
+#: xmodule/js/src/capa/display.js:568
 msgid "Your file {filename} is too large (max size: {maxSize}MB)."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:624
+#: xmodule/js/src/capa/display.js:584
 msgid "You did not submit the required files: {requiredFiles}."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:634
+#: xmodule/js/src/capa/display.js:594
 msgid "You did not select any files to submit."
 msgstr ""
 
 #. Translators: This is only translated to allow for reordering of label and
 #. associated status.;
-#: xmodule/js/src/capa/display.js:728
+#: xmodule/js/src/capa/display.js:688
 msgid "{label}: {status}"
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:762
+#: xmodule/js/src/capa/display.js:719
 msgid "This problem has been reset."
 msgstr ""
 
-#: xmodule/js/src/capa/display.js:1071
+#: xmodule/js/src/capa/display.js:1025
 msgid "unsubmitted"
 msgstr ""
 
@@ -5671,7 +5671,7 @@ msgstr ""
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
-#: xmodule/js/src/html/edit.js:625 xmodule/js/src/problem/edit.js:70
+#: xmodule/js/src/html/edit.js:625 xmodule/js/src/problem/edit.js:50
 msgid "Header"
 msgstr ""
 
@@ -6382,25 +6382,24 @@ msgid ""
 "Click Cancel to return to this page without sending your information."
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:37 xmodule/js/src/problem/edit.js:39
-#: xmodule/js/src/problem/edit.js:61 xmodule/js/src/problem/edit.js:65
+#: xmodule/js/src/problem/edit.js:35 xmodule/js/src/problem/edit.js:47
 msgid "incorrect"
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:41 xmodule/js/src/problem/edit.js:46
-#: xmodule/js/src/problem/edit.js:63
+#: xmodule/js/src/problem/edit.js:35 xmodule/js/src/problem/edit.js:38
+#: xmodule/js/src/problem/edit.js:47
 msgid "correct"
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:51 xmodule/js/src/problem/edit.js:56
+#: xmodule/js/src/problem/edit.js:41 xmodule/js/src/problem/edit.js:44
 msgid "answer"
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:75
+#: xmodule/js/src/problem/edit.js:53
 msgid "Short explanation"
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:145
+#: xmodule/js/src/problem/edit.js:120
 msgid ""
 "If you use the Advanced Editor, this problem will be converted to XML and "
 "you will not be able to return to the Simple Editor Interface.\n"
@@ -6408,13 +6407,13 @@ msgid ""
 "Proceed to the Advanced Editor and convert this problem to XML?"
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:475 xmodule/js/src/problem/edit.js:512
-#: xmodule/js/src/problem/edit.js:582
+#: xmodule/js/src/problem/edit.js:406 xmodule/js/src/problem/edit.js:439
+#: xmodule/js/src/problem/edit.js:502
 msgid ""
 "An answer option has been left blank. Please review and edit the component."
 msgstr ""
 
-#: xmodule/js/src/problem/edit.js:799
+#: xmodule/js/src/problem/edit.js:714
 msgid "Explanation"
 msgstr ""
 
