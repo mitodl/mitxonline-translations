@@ -2,13 +2,13 @@
 # Copyright (C) 2026 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2026.
-# 
+#
 # Translators:
 # Pablo Iglesias, 2025
 # Eden Huthmacher, 2026
 # Brian Smith, 2026
 # Gerardo Núñez, 2026
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -17,10 +17,10 @@ msgstr ""
 "PO-Revision-Date: 2023-11-20 11:35+0000\n"
 "Last-Translator: Gerardo Núñez, 2026\n"
 "Language-Team: Spanish (Spain) (https://app.transifex.com/open-edx/teams/6205/es_ES/)\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_ES\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
@@ -14977,3 +14977,31 @@ msgid ""
 msgstr ""
 "{display_name} solo es accesible para los estudiantes inscritos. Inicie "
 "sesión o regístrese e inscríbase en este curso para verlo."
+
+#: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:41
+#, python-format
+msgid ""
+"\n"
+"            You’re almost there, %(user_name)s!\n"
+"        "
+msgstr ""
+"\n"
+"¡Ya casi estás, %(user_name)s!"
+
+#: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:79
+msgid ""
+"\n"
+"                        Jump back in\n"
+"                    "
+msgstr ""
+"\n"
+"Vuelve a entrar"
+
+#: openedx/core/djangoapps/notifications/base_notification.py:191
+#, python-brace-format
+msgid ""
+"<p><strong>{username}’s </strong> {content_type} has been reported <strong> "
+"{content}</strong></p>"
+msgstr ""
+"<p><strong>{username} </strong> {content_type} ha sido reportado/a <strong> "
+"{content}</strong></p>"
