@@ -13072,11 +13072,6 @@ msgstr ""
 msgid "edX and Open edX are registered trademarks of edX LLC."
 msgstr ""
 
-#. MITx Online theme - navbar-authenticated.html
-#: lms/templates/header/navbar-authenticated.html
-#. Translators: This is short for "System administration".
-msgid "Sysadmin"
-msgstr ""
 
 #. MITx Online theme - navbar-authenticated.html, user_dropdown.html
 #: lms/templates/header/navbar-authenticated.html
@@ -13116,7 +13111,7 @@ msgstr ""
 
 #. MITx Online theme - user_dropdown.html
 #: lms/templates/header/user_dropdown.html
-msgid "Accounts"
+msgid "Settings"
 msgstr ""
 
 #. MITx Online theme - user_dropdown.html
@@ -13128,4 +13123,25 @@ msgstr ""
 #: lms/templates/header/navbar-logo-header.html
 #, python-brace-format
 msgid "{platform_name} Home Page"
+msgstr ""
+
+#. MITx Online theme - footer.html
+#: lms/templates/footer.html
+msgid "Contact Us"
+msgstr ""
+
+#. MITx Online theme - footer.html
+#: lms/templates/footer.html
+msgid "Terms of Service"
+msgstr ""
+
+
+#. MITx Online theme - navbar-authenticated.html
+#: lms/templates/header/navbar-authenticated.html
+msgid "Courses"
+msgstr ""
+
+#. MITx Online theme - navbar-authenticated.html
+#: lms/templates/header/navbar-authenticated.html
+msgid "Programs"
 msgstr ""
