@@ -13241,24 +13241,3 @@ msgstr ""
 #, python-brace-format
 msgid "{platform_name} Home Page"
 msgstr ""
-
-#. MITx Online theme - footer.html
-#: lms/templates/footer.html
-msgid "Contact Us"
-msgstr ""
-
-#. MITx Online theme - footer.html
-#: lms/templates/footer.html
-msgid "Terms of Service"
-msgstr ""
-
-
-#. MITx Online theme - navbar-authenticated.html
-#: lms/templates/header/navbar-authenticated.html
-msgid "Courses"
-msgstr ""
-
-#. MITx Online theme - navbar-authenticated.html
-#: lms/templates/header/navbar-authenticated.html
-msgid "Programs"
-msgstr ""
