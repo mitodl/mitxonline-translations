@@ -13124,3 +13124,132 @@ msgstr ""
 #, python-brace-format
 msgid "{platform_name} Home Page"
 msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{course_number} Progress"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "View Grading in studio"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "Course Progress for '{username}' ({email})"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "View Certificate"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Opens in a new browser window"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#: lms/templates/dashboard/_dashboard_certificate_information.html
+msgid "Request Certificate"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Requirements for Course Credit"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{student_name}, you are no longer eligible for credit in this course."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid ""
+"{student_name}, you have met the requirements for credit in this course. "
+"{a_start}Go to your dashboard{a_end} to purchase course credit."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{student_name}, you have not yet met the requirements for credit."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Information about course credit requirements"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Submitted"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Failed"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Declined"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "Completed by {date}"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Upcoming"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Less"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Details for each chapter"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{earned} of {total} possible points"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "due {date}"
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid ""
+"Suspicious activity detected during proctored exam review. Exam score 0."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Section grade has been overridden."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Problem Scores: "
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Practice Scores: "
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Problem scores are hidden until the due date."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Practice scores are hidden until the due date."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Problem scores are hidden."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "Practice scores are hidden."
+msgstr ""
+
+#: lms/templates/courseware/progress.html
+msgid "No problem scores in this section"
+msgstr ""
