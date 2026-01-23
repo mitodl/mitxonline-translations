@@ -15103,3 +15103,65 @@ msgstr "Jours d'avance pour les utilisateurs bêta"
 #: xmodule/video_block/video_xfields.py:203
 msgid "Do not show bumper again"
 msgstr "Ne plus afficher ce message"
+
+#: lms/templates/footer.html
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: lms/templates/footer.html
+msgid "Accessibility"
+msgstr "Accessibilité"
+
+#: lms/templates/footer.html
+msgid "Help"
+msgstr "Aide"
+
+#: lms/templates/footer.html
+msgid "Footer navigation"
+msgstr "Navigation du pied de page"
+
+#: lms/templates/footer.html
+msgid "edX and Open edX are registered trademarks of edX LLC."
+msgstr "edX et Open edX sont des marques déposées de edX LLC."
+
+#: lms/templates/header/navbar-authenticated.html
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Supplemental Links"
+msgstr "Liens supplémentaires"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Explore courses"
+msgstr "Explorer les cours"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Options Menu"
+msgstr "Menu des options"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard for:"
+msgstr "Tableau de bord pour :"
+
+#: lms/templates/header/user_dropdown.html
+msgid "More Options"
+msgstr "Plus d'options"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Profile"
+msgstr "Profil"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Settings"
+msgstr "Paramètres"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Sign Out"
+msgstr "Déconnexion"
+
+#: lms/templates/header/navbar-logo-header.html
+#, python-brace-format
+msgid "{platform_name} Home Page"
+msgstr "Page d'accueil de {platform_name}"
