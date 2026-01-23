@@ -15013,3 +15013,65 @@ msgstr ""
 "target=\"&#95;blank\" "
 "href=\"https://docs.openedx.org/en/latest/educators/references/advanced_features/teams_configuration_options.html\">documentación"
 " de configuración de equipos</a> para obtener ayuda y ejemplos."
+
+#: lms/templates/footer.html
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: lms/templates/footer.html
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: lms/templates/footer.html
+msgid "Help"
+msgstr "Ayuda"
+
+#: lms/templates/footer.html
+msgid "Footer navigation"
+msgstr "Navegación del pie de página"
+
+#: lms/templates/footer.html
+msgid "edX and Open edX are registered trademarks of edX LLC."
+msgstr "edX y Open edX son marcas registradas de edX LLC."
+
+#: lms/templates/header/navbar-authenticated.html
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard"
+msgstr "Panel de control"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Supplemental Links"
+msgstr "Enlaces suplementarios"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Explore courses"
+msgstr "Explorar cursos"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Options Menu"
+msgstr "Menú de opciones"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard for:"
+msgstr "Panel de control para:"
+
+#: lms/templates/header/user_dropdown.html
+msgid "More Options"
+msgstr "Más opciones"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Profile"
+msgstr "Perfil"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Settings"
+msgstr "Configuración"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Sign Out"
+msgstr "Cerrar sesión"
+
+#: lms/templates/header/navbar-logo-header.html
+#, python-brace-format
+msgid "{platform_name} Home Page"
+msgstr "Página de inicio de {platform_name}"
