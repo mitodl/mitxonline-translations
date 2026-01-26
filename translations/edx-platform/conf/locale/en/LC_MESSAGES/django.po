@@ -13189,7 +13189,6 @@ msgstr ""
 msgid "edX and Open edX are registered trademarks of edX LLC."
 msgstr ""
 
-
 #. MITx Online theme - navbar-authenticated.html, user_dropdown.html
 #: lms/templates/header/navbar-authenticated.html
 #: lms/templates/header/user_dropdown.html
@@ -13369,4 +13368,16 @@ msgstr ""
 
 #: lms/templates/courseware/progress.html
 msgid "No problem scores in this section"
+msgstr ""
+
+#: lms/templates/staff_problem_info.html:27
+msgid "Staff Debug Info"
+msgstr ""
+
+#: lms/templates/staff_problem_info.html:31
+msgid "Submission history"
+msgstr ""
+
+#: lms/templates/preview_menu.html:101
+msgid "View in Studio"
 msgstr ""
