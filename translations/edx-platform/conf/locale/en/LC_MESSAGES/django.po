@@ -13383,3 +13383,7 @@ msgstr ""
 #: lms/templates/staff_problem_info.html:31
 msgid "Submission history"
 msgstr ""
+
+#: lms/templates/preview_menu.html:101
+msgid "View in Studio"
+msgstr ""
