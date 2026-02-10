@@ -3,18 +3,18 @@
 # Copyright (C) 2026 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2026.
-# 
+#
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2026 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-# 
+#
 # Translators:
 # Ruslan Abrayev, 2026
 # Brian Smith, 2026
 # Gerardo Núñez, 2026
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -24,12 +24,12 @@ msgstr ""
 "PO-Revision-Date: 2023-11-20 11:35+0000\n"
 "Last-Translator: Gerardo Núñez, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/open-edx/teams/6205/ru/)\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: cms/static/cms/js/main.js:38
 #: cms/static/js/views/active_video_upload_list.js:36
@@ -11427,3 +11427,97 @@ msgstr[3] "Загрузите следующие {num_items} результат�
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Ничего не найдено."
+
+#: cms/static/js/views/move_xblock_list.js:35
+msgid "Units"
+msgstr "Разделы"
+
+#: common/static/common/js/discussion/utils.js:484
+#: common/static/common/js/discussion/utils.js:506
+#: common/static/common/templates/discussion/templates.underscore:592
+#: common/static/common/templates/discussion/templates.underscore:604
+msgid "…"
+msgstr "…"
+
+#: lms/static/js/learner_dashboard/views/program_details_sidebar_view.js:62
+msgid "{type} Progress"
+msgstr "Прогресс по {type}"
+
+#: cms/templates/js/course-video-transcript-preferences.underscore:3
+msgid "Transcript Turnaround"
+msgstr "Срок выполнения транскрипта"
+
+#: cms/templates/js/discussion-editor.underscore:24
+msgid "Discussion Configuration"
+msgstr "Конфигурация обсуждений"
+
+#: cms/templates/js/video-transcripts.underscore:9
+msgid "No transcript uploaded."
+msgstr "Субтитры не загружены."
+
+#: common/static/common/templates/discussion/templates.underscore:351
+msgid "Community TA"
+msgstr "Сообщество TA"
+
+#: common/static/common/templates/discussion/templates.underscore:548
+msgid "(Community TA)"
+msgstr "(Сообщество TA)"
+
+#: common/static/common/templates/discussion/templates.underscore:794
+msgid "Report"
+msgstr "Пожаловаться"
+
+#: lms/djangoapps/teams/static/teams/templates/manage.underscore:17
+msgid "Download Memberships"
+msgstr "Скачать состав участников"
+
+#: lms/djangoapps/teams/static/teams/templates/manage.underscore:40
+msgid "Upload Memberships"
+msgstr "Загрузить состав участников"
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore:62
+#: lms/templates/learner_dashboard/program_details_view.underscore:38
+#, python-brace-format
+msgid " ${price} {currency} )"
+msgstr "${price} {currency} )"
+
+#: lms/templates/verify_student/face_photo_step.underscore:52
+#: lms/templates/verify_student/id_photo_step.underscore:47
+#: lms/templates/verify_student/incourse_reverify.underscore:43
+msgid ""
+"What if I can't see the camera image, or if I can't see my photo do "
+"determine which side is visible?"
+msgstr ""
+"Что делать, если я не вижу изображение с камеры или не могу определить, "
+"какая сторона видна на моей фотографии?"
+
+#: lms/templates/verify_student/face_photo_step.underscore:55
+#: lms/templates/verify_student/incourse_reverify.underscore:46
+msgid ""
+"You may be able to complete the image capture procedure without assistance, "
+"but it may take a couple of submission attempts to get the camera "
+"positioning right.  Optimal camera positioning varies with each computer, "
+"but generally the best position for a headshot is approximately 12-18 inches"
+" (30-45 centimeters) from the camera, with your head centered relative to "
+"the computer screen. "
+msgstr ""
+"Вы можете завершить процедуру захвата изображения без посторонней помощи, но"
+" может потребоваться несколько попыток, чтобы правильно расположить камеру. "
+"Оптимальное расположение камеры зависит от каждого компьютера, но обычно "
+"лучшая позиция для портрета — примерно 30-45 сантиметров от камеры, с "
+"головой по центру относительно экрана компьютера."
+
+#: lms/templates/verify_student/id_photo_step.underscore:50
+msgid ""
+"You may be able to complete the image capture procedure without assistance, "
+"but it may take a couple of submission attempts to get the camera "
+"positioning right.  Optimal camera positioning varies with each computer, "
+"but generally, the best position for a photo of an ID card is 8-12 inches "
+"(20-30 centimeters) from the camera, with the ID card centered relative to "
+"the camera. "
+msgstr ""
+"Вы можете завершить процедуру захвата изображения без посторонней помощи, но"
+" может потребоваться несколько попыток, чтобы правильно расположить камеру. "
+"Оптимальное расположение камеры зависит от каждого компьютера, но обычно "
+"лучшая позиция для фотографии удостоверения личности — 20-30 сантиметров от "
+"камеры, с удостоверением по центру относительно камеры."
