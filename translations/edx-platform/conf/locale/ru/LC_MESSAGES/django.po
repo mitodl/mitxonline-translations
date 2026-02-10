@@ -12778,7 +12778,7 @@ msgstr "Удачи в учёбе,"
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/subject.txt:3
 #, python-format
 msgid "Your %(platform_name)s ID verification was approved!"
-msgstr "Ваша проверка личности на {platform_name} одобрена!"
+msgstr "Ваша проверка личности на %(platform_name)s одобрена!"
 
 #: lms/templates/verify_student/edx_ace/verificationsubmitted/email/body.html:10
 msgid "ID Verification Submitted"
