@@ -14416,12 +14416,12 @@ msgstr "السبب في حالة عدم دعم الكتلة وتعيين اله�
 #, python-brace-format
 msgid " It has {count} children block."
 msgid_plural " It has {count} children blocks."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "ليس لديه أي كتل تابعة."
+msgstr[1] "لديه كتلة تابعة واحدة."
+msgstr[2] "لديه كتلتان تابعتان."
+msgstr[3] "لديه {count} كتل تابعة."
+msgstr[4] "لديه {count} كتلة تابعة."
+msgstr[5] "لديه {count} كتلة تابعة."
 
 #: cms/lib/xblock/upstream_sync.py:255
 msgid "Downstream is not an XBlock or is missing required UpstreamSyncMixin"
