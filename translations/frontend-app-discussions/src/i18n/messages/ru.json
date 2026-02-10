@@ -209,7 +209,7 @@
   "discussions.posts.sort.lastActivity": "Недавняя активность",
   "discussions.posts.sort.commentCount": "Большая активность",
   "discussions.posts.sort.voteCount": "Больше всего лайков",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Все} true {Свои} other {{own}}} {status, select, statusAll {} statusUnread {непрочитанные} statusFollowing {отслеживаемые} statusReported {с жалобами} statusUnanswered {без ответа} statusUnresponded {без реакции} other {{status}}} {type, select, discussion {обсуждения} question {вопросы} all {сообщения} other {{type}}} {cohortType, select, all {} group {в {cohort}} other {{cohortType}}} отсортировано по: {sort, select, lastActivityAt {недавней активности} commentCount {количеству комментариев} voteCount {количеству лайков} other {{sort}}}",
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} Other { {own} } } {status, select, statusAll {} statusUnread {непрочитано} statusFollowing {followed} statusReported {reported} statusUn Answered {без ответа} statusUnresponded {не ответил} Other { {status} } } {type, select, обсуждение {дискуссии} вопрос {вопросы} все {сообщения} другое { {type} } } {cohortType, select, all {} группа {in {cohort} } другое { {cohortType} } } отсортировано по {sort, select, LastActivityAt { недавняя активность} commentCount {наибольшая активность} voiceCount {наибольшее количество лайков} Other { {sort} } }",
   "discussions.author.admin.description": "Часть команды, которая ведёт этот курс",
   "discussions.author.learner.title": "Учащийся",
   "discussions.author.learner.description": "Проходит курс так же, как и вы",
