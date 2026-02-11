@@ -8880,6 +8880,8 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> commented on your response to the "
 "post <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
+"<{p}><{strong}>{replier_name}</{strong}> σχολίασε την απάντησή σας στην "
+"ανάρτηση <{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:82
 #, python-brace-format
@@ -8907,6 +8909,8 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> and others have responded to your "
 "post <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
+"<{p}><{strong}>{replier_name}</{strong}} και άλλοι απάντησαν στην ανάρτησή "
+"σας <{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:117
 #, python-brace-format
@@ -8970,6 +8974,8 @@ msgid ""
 "<p><strong>{username}’s </strong> {content_type} has been reported <strong> "
 "{content}</strong></p>"
 msgstr ""
+"<p><strong>{username}</strong> {content_type} έχει αναφερθεί "
+"<strong>{content}</strong></p>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:200
 #, python-brace-format
@@ -13152,6 +13158,7 @@ msgstr ""
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
+"{assignment_type} = {weighted_percent:.2%} από ένα δυνατό {weight:.2%}"
 
 #: xmodule/graders.py:380
 msgid "Generated"
@@ -13170,7 +13177,7 @@ msgstr "Οι χαμηλότερες {drop_count} βαθμολογίες {section
 #: xmodule/graders.py:434
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr ""
+msgstr "Μέσος όρος {section_type} = {percent:.2%}"
 
 #: xmodule/graders.py:439
 #, python-brace-format
