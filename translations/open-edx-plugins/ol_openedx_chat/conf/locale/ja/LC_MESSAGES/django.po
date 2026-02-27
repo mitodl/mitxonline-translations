@@ -26,3 +26,11 @@ msgstr "%(display_name)sについて"
 #: block.py drawer initial message (TUTOR_INITIAL_MESSAGES)
 msgid "Hi! Do you need any help?"
 msgstr "こんにちは！何かお手伝いしましょうか？"
+
+#: constants.py BLOCK_TYPE_LABELS
+msgid "video"
+msgstr "ビデオ"
+
+#: constants.py BLOCK_TYPE_LABELS
+msgid "problem"
+msgstr "問題"
