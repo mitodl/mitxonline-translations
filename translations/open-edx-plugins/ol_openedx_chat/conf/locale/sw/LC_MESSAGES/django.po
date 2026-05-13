@@ -16,21 +16,21 @@ msgstr ""
 #: block.py student_view_aside button label suffix
 #, python-format
 msgid "about this %(block_type)s"
-msgstr ""
+msgstr "kuhusu %(block_type)s hii"
 
 #: block.py drawer title
 #, python-format
 msgid "about %(display_name)s"
-msgstr ""
+msgstr "kuhusu %(display_name)s"
 
 #: block.py drawer initial message (TUTOR_INITIAL_MESSAGES)
 msgid "Hi! Do you need any help?"
-msgstr ""
+msgstr "Habari! Je, unahitaji msaada wowote?"
 
 #: constants.py BLOCK_TYPE_LABELS
 msgid "video"
-msgstr ""
+msgstr "video"
 
 #: constants.py BLOCK_TYPE_LABELS
 msgid "problem"
-msgstr ""
+msgstr "tatizo"
