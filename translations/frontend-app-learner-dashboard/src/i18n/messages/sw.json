@@ -152,5 +152,17 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} haikuidhinisha ombi lako la mkopo wa kozi. Kwa maelezo zaidi, wasiliana na {linkToProviderSite} moja kwa moja.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Omba Mkopo",
   "learner-dash.courseCard.banners.credit.viewCredit": "Tazama Mikopo",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Tazama Maelezo"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Tazama Maelezo",
+  "learner-dash.unenrollConfirm.reasons.prereqs": "",
+  "learner-dash.unenrollConfirm.reasons.difficulty": "",
+  "learner-dash.unenrollConfirm.reasons.goals": "",
+  "learner-dash.unenrollConfirm.reasons.broken": "",
+  "learner-dash.unenrollConfirm.reasons.time": "",
+  "learner-dash.unenrollConfirm.reasons.browse": "",
+  "learner-dash.unenrollConfirm.reasons.support": "",
+  "learner-dash.unenrollConfirm.reasons.quality": "",
+  "learner-dash.unenrollConfirm.reasons.easy": "",
+  "learner-dash.unenrollConfirm.reasons.custom-placeholder": "",
+  "learner-dash.unenrollConfirm.reasons.prefer-not-to-say": "",
+  "learner-dash.unenrollConfirm.confirm.text": ""
 }

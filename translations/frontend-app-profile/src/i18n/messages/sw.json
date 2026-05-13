@@ -53,5 +53,16 @@
   "profile.formcontrols.button.saving": "Kuhifadhi",
   "profile.formcontrols.button.saved": "Imehifadhiwa",
   "profile.visibility.who.just.me": "Mimi pekee",
-  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}"
+  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}",
+  "profile.certificate.uuid": "",
+  "profile.your.certificates": "",
+  "profile.certificates.description": "",
+  "profile.profile.information": "",
+  "profile.username": "",
+  "profile.username.tooltip": "",
+  "profile.certificatecount": "",
+  "profile.name.tooltip": "",
+  "profile.name.redirect": "",
+  "profile.profileavatar.tooltip.edit": "",
+  "profile.profileavatar.tooltip.upload": ""
 }

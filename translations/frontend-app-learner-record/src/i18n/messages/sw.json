@@ -80,5 +80,15 @@
   "records.help.header": "Je, una maswali kuhusu Rekodi za Mwanafunzi?",
   "records.help.description": "Ili kujifunza zaidi kuhusu rekodi unaweza",
   "records.help.link": "soma zaidi katika sehemu yetu ya usaidizi wa rekodi.",
-  "records.header": "Rekodi Zangu za Mwanafunzi"
+  "records.header": "Rekodi Zangu za Mwanafunzi",
+  "certificate.program.card.name": "",
+  "certificate.course.card.name": "",
+  "download.button.error": "",
+  "create.link.error": "",
+  "learner.full_name": "",
+  "send.records.pending.button": "",
+  "send.failure.alert.heading.default": "",
+  "send.failure.alert.message.default": "",
+  "send.failure.alert.heading.429": "",
+  "send.failure.alert.message.429": ""
 }
