@@ -53,5 +53,16 @@
   "profile.formcontrols.button.saving": "Kuhifadhi",
   "profile.formcontrols.button.saved": "Imehifadhiwa",
   "profile.visibility.who.just.me": "Mimi pekee",
-  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}"
+  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}",
+  "profile.certificate.uuid": "Kitambulisho cha stahiki {certificate_uuid}",
+  "profile.your.certificates": "Vyeti vyako",
+  "profile.certificates.description": "Taarifa za rekodi zako za mwanafunzi zinaonekana kwako tu. Ni jina lako la mtumiaji na picha ya wasifu pekee vinavyoonekana kwa wengine kwenye {siteName}.",
+  "profile.profile.information": "Taarifa za wasifu",
+  "profile.username": "Jina la mtumiaji",
+  "profile.username.tooltip": "Jina linalokutambulisha kwenye edX. Huwezi kubadilisha jina lako la mtumiaji.",
+  "profile.certificatecount": "vyeti {certificate_count}",
+  "profile.name.tooltip": "Jina linalotumika kwa uthibitishaji wa kitambulisho na linaloonekana kwenye vyeti vyako",
+  "profile.name.redirect": "Hariri jina kamili kutoka kwenye ukurasa wa Akaunti",
+  "profile.profileavatar.tooltip.edit": "Hariri picha",
+  "profile.profileavatar.tooltip.upload": "Pakia picha"
 }

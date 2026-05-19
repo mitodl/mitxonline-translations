@@ -80,5 +80,15 @@
   "records.help.header": "Je, una maswali kuhusu Rekodi za Mwanafunzi?",
   "records.help.description": "Ili kujifunza zaidi kuhusu rekodi unaweza",
   "records.help.link": "soma zaidi katika sehemu yetu ya usaidizi wa rekodi.",
-  "records.header": "Rekodi Zangu za Mwanafunzi"
+  "records.header": "Rekodi Zangu za Mwanafunzi",
+  "certificate.program.card.name": "Cheti cha Programu",
+  "certificate.course.card.name": "Cheti cha Kozi",
+  "download.button.error": "Kupakua rekodi ya programu kumeshindwa",
+  "create.link.error": "Uundaji wa kiungo cha rekodi ya programu umeshindwa. Tafadhali ondoka (log out), ingia tena (log in), kisha ujaribu tena.",
+  "learner.full_name": "{full_name} |",
+  "send.records.pending.button": "Inajaribu tena...",
+  "send.failure.alert.heading.default": "Hatukuweza kutuma rekodi yako ya programu",
+  "send.failure.alert.message.default": "Unaweza kujaribu kutuma rekodi yako kwenye njia ya {pathway_name} tena. Ikiwa tatizo hili litaendelea {link}",
+  "send.failure.alert.heading.429": "Maombi mengi sana.",
+  "send.failure.alert.message.429": "Tafadhali jaribu tena baada ya dakika chache."
 }

@@ -32,5 +32,9 @@
   "header.menu.signOut.label": "Toka",
   "header.user.menu.studio": "Nyumbani kwa Studio",
   "header.user.menu.maintenance": "Matengenezo",
-  "header.label.courseOutline": "Rudi kwenye muhtasari wa kozi katika Studio"
+  "header.label.courseOutline": "Rudi kwenye muhtasari wa kozi katika Studio",
+  "header.user.menu.signout": "Toka",
+  "header.user.menu.account.setting": "Mipangilio",
+  "header.menu.aria-label": "Chaguo za Mtumiaji",
+  "header.label.search.nav": "Tafuta maudhui"
 }

@@ -39,5 +39,13 @@
   "authoring.footer.termsOfService.link.label": "Masharti ya Huduma",
   "authoring.footer.privacyPolicy.link.label": "Sera ya Faragha",
   "authoring.footer.accessibilityRequest.link.label": "Ombi la Malazi ya Ufikiaji",
-  "authoring.footer.trademark.message": "edX na Open edX, na nembo za edX na Open edX ni alama za biashara zilizosajiliwa za"
+  "authoring.footer.trademark.message": "edX na Open edX, na nembo za edX na Open edX ni alama za biashara zilizosajiliwa za",
+  "footer.links.about.us": "Kuhusu Sisi",
+  "footer.links.terms.of.service": "Masharti ya Huduma",
+  "footer.links.accessibility": "Ufikivu",
+  "footer.links.contact.us": "Wasiliana Nasi",
+  "footer.links.help": "Msaada",
+  "footer.trademark.notice": "edX na Open edX ni alama za biashara zilizosajiliwa za edX LLC.",
+  "authoring.footer.help.educatorsDocs.button.label": "Nyaraka za Waelimishaji wa Open edX",
+  "authoring.footer.help.openEdxDemoCourse.button.label": "Kozi ya Onyesho ya Open edX"
 }
