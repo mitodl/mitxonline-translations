@@ -3,13 +3,13 @@
 # Copyright (C) 2026 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2026.
-# 
+#
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2026 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-# 
+#
 # Translators:
 # Pooja Kulkarni <pooja@opencraft.com>, 2025
 # Yagnesh nayi, 2025
@@ -17,7 +17,7 @@
 # Eden Huthmacher, 2025
 # Brian Smith, 2026
 # Gerardo Núñez, 2026
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -27,12 +27,12 @@ msgstr ""
 "PO-Revision-Date: 2023-11-20 11:35+0000\n"
 "Last-Translator: Gerardo Núñez, 2026\n"
 "Language-Team: Hindi (https://app.transifex.com/open-edx/teams/6205/hi/)\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
-"Language: hi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: cms/static/cms/js/main.js:38
 #: cms/static/js/views/active_video_upload_list.js:36
@@ -11321,3 +11321,86 @@ msgstr[1] "अगले {num_items} परिणाम लोड करें"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "क्षमा करें, हम कोई परिणाम नहीं खोज सके।"
+
+#: cms/static/js/views/utils/xblock_utils.js:189
+msgid "Moving"
+msgstr "स्थानांतरित किया जा रहा है"
+
+#: lms/static/js/Markdown.Editor.js:29
+msgid "Link Description"
+msgstr "लिंक विवरण"
+
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
+msgid "Choose one"
+msgstr "एक चुनें"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:157
+msgid ""
+"Error resetting problem attempts for problem '<%- problem_id %>' and student"
+" '<%- student_id %>'. Make sure that the problem and student identifiers are"
+" complete and correct."
+msgstr ""
+"समस्या '<%- problem_id %>' और छात्र '<%- student_id %>' के लिए समस्या प्रयास"
+" रीसेट करने में त्रुटि। सुनिश्चित करें कि समस्या और छात्र पहचानकर्ता पूर्ण "
+"और सही हैं।"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:413
+msgid "Reset attempts for all students on problem '<%- problem_id %>'?"
+msgstr "समस्या '<%- problem_id %>' पर सभी छात्रों के प्रयास रीसेट करें?"
+
+#: lms/static/js/learner_dashboard/models/course_card_model.js:180
+msgid "Started {start}"
+msgstr "{start} को शुरू हुआ"
+
+#: xmodule/assets/video/public/js/00_i18n.js:10
+#: xmodule/assets/video/public/js/09_play_pause_control.js:31
+#: xmodule/assets/video/public/js/09_play_pause_control.js:89
+#: xmodule/assets/video/public/js/09_play_skip_control.js:28
+msgid "Play"
+msgstr "चलाएँ"
+
+#: cms/templates/js/course-video-settings-update-settings-footer.underscore:7
+msgid "Press update settings to update course video settings"
+msgstr "कोर्स वीडियो सेटिंग्स अपडेट करने के लिए अपडेट सेटिंग्स दबाएँ"
+
+#: cms/templates/js/timed-examination-preference-editor.underscore:51
+msgid ""
+"Use Onboarding to introduce learners to proctoring, verify their identity, "
+"and create an onboarding profile. Learners must complete the onboarding "
+"profile step prior to taking a proctored exam. Profile reviews take 2+ "
+"business days."
+msgstr ""
+"प्रॉक्टरिंग से शिक्षार्थियों का परिचय कराने, उनकी पहचान सत्यापित करने और "
+"ऑनबोर्डिंग प्रोफ़ाइल बनाने के लिए ऑनबोर्डिंग का उपयोग करें। प्रॉक्टर्ड "
+"परीक्षा देने से पहले शिक्षार्थियों को ऑनबोर्डिंग प्रोफ़ाइल चरण पूरा करना "
+"होगा। प्रोफ़ाइल समीक्षा में 2+ कार्यदिवस लगते हैं।"
+
+#: common/static/common/templates/discussion/templates.underscore:305
+msgid "discussion"
+msgstr "चर्चा"
+
+#: lms/djangoapps/support/static/support/templates/enrollment-modal.underscore:16
+msgid "Choose One"
+msgstr "एक चुनें"
+
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:23
+msgid "Upgrade Deadline"
+msgstr "अपग्रेड की अंतिम तिथि"
+
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:45
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:46
+#: lms/templates/ccx/schedule.underscore:42
+msgid "N/A"
+msgstr "लागू नहीं"
+
+#: lms/templates/verify_student/face_photo_step.underscore:56
+#: lms/templates/verify_student/id_photo_step.underscore:51
+#: lms/templates/verify_student/incourse_reverify.underscore:47
+msgid ""
+"If the photos you submit are rejected, try moving the computer or camera "
+"orientation to change the lighting angle.  The most common reason for "
+"rejection is inability to read the text on the ID card."
+msgstr ""
+"यदि आपके द्वारा सबमिट की गई फ़ोटो अस्वीकार कर दी जाती हैं, तो प्रकाश के कोण "
+"को बदलने के लिए कंप्यूटर या कैमरे की दिशा बदलकर देखें। अस्वीकार होने का सबसे"
+" आम कारण आईडी कार्ड पर लिखे पाठ को पढ़ न पाना है।"

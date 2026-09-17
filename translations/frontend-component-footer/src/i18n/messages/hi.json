@@ -37,5 +37,11 @@
   "authoring.footer.termsOfService.link.label": "सेवा की शर्तें",
   "authoring.footer.privacyPolicy.link.label": "गोपनीयता नीति",
   "authoring.footer.accessibilityRequest.link.label": "अभिगम्यता आवास अनुरोध",
-  "authoring.footer.trademark.message": "edX और Open edX, और edX और Open edX लोगो के पंजीकृत ट्रेडमार्क हैं"
+  "authoring.footer.trademark.message": "edX और Open edX, और edX और Open edX लोगो के पंजीकृत ट्रेडमार्क हैं",
+  "footer.links.about.us": "हमारे बारे में",
+  "footer.links.terms.of.service": "सेवा की शर्तें",
+  "footer.links.accessibility": "सुलभता",
+  "footer.links.contact.us": "संपर्क करें",
+  "footer.links.help": "सहायता",
+  "footer.trademark.notice": "edX और Open edX, edX LLC के पंजीकृत ट्रेडमार्क हैं।"
 }
