@@ -2,7 +2,7 @@
 # Copyright (C) 2026 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2026.
-# 
+#
 # Translators:
 # Omar Al-Ithawi <i@omardo.com>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
@@ -10,7 +10,7 @@
 # Yagnesh nayi, 2026
 # Eden Huthmacher, 2026
 # Brian Smith, 2026
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -19,10 +19,10 @@ msgstr ""
 "PO-Revision-Date: 2023-11-20 11:35+0000\n"
 "Last-Translator: Brian Smith, 2026\n"
 "Language-Team: Hindi (https://app.transifex.com/open-edx/teams/6205/hi/)\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
@@ -14790,3 +14790,212 @@ msgid ""
 msgstr ""
 "{display_name} केवल नामांकित शिक्षार्थियों के लिए सुलभ है। इसे देखने के लिए "
 "साइन इन या रजिस्टर करें, और इस कोर्स में दाखिला लें।"
+
+#: lms/templates/footer.html
+msgid "About Us"
+msgstr "हमारे बारे में"
+
+#: lms/templates/footer.html
+msgid "Accessibility"
+msgstr "सुगम्यता"
+
+#: lms/templates/footer.html
+msgid "Help"
+msgstr "सहायता"
+
+#: lms/templates/footer.html
+msgid "Footer navigation"
+msgstr "फ़ुटर नेविगेशन"
+
+#: lms/templates/footer.html
+msgid "edX and Open edX are registered trademarks of edX LLC."
+msgstr "edX और Open edX, edX LLC के पंजीकृत ट्रेडमार्क हैं।"
+
+#: lms/templates/header/navbar-authenticated.html
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Supplemental Links"
+msgstr "पूरक लिंक"
+
+#: lms/templates/header/navbar-not-authenticated.html
+msgid "Explore courses"
+msgstr "पाठ्यक्रम खोजें"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Options Menu"
+msgstr "विकल्प मेन्यू"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Dashboard for:"
+msgstr "इनके लिए डैशबोर्ड:"
+
+#: lms/templates/header/user_dropdown.html
+msgid "More Options"
+msgstr "अधिक विकल्प"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: lms/templates/header/user_dropdown.html
+msgid "Sign Out"
+msgstr "साइन आउट करें"
+
+#: lms/templates/header/navbar-logo-header.html
+#, python-brace-format
+msgid "{platform_name} Home Page"
+msgstr "{platform_name} का होम पेज"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{course_number} Progress"
+msgstr "{course_number} की प्रगति"
+
+#: lms/templates/courseware/progress.html
+msgid "View Grading in studio"
+msgstr "Studio में ग्रेडिंग देखें"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "Course Progress for '{username}' ({email})"
+msgstr "'{username}' ({email}) के लिए पाठ्यक्रम की प्रगति"
+
+#: lms/templates/courseware/progress.html
+msgid "View Certificate"
+msgstr "प्रमाणपत्र देखें"
+
+#: lms/templates/courseware/progress.html
+msgid "Opens in a new browser window"
+msgstr "नई ब्राउज़र विंडो में खुलता है"
+
+#: lms/templates/courseware/progress.html
+#: lms/templates/dashboard/_dashboard_certificate_information.html
+msgid "Request Certificate"
+msgstr "प्रमाणपत्र का अनुरोध करें"
+
+#: lms/templates/courseware/progress.html
+msgid "Requirements for Course Credit"
+msgstr "पाठ्यक्रम क्रेडिट की आवश्यकताएँ"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{student_name}, you are no longer eligible for credit in this course."
+msgstr ""
+"{student_name}, अब आप इस पाठ्यक्रम में क्रेडिट पाने के पात्र नहीं हैं।"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid ""
+"{student_name}, you have met the requirements for credit in this course. "
+"{a_start}Go to your dashboard{a_end} to purchase course credit."
+msgstr ""
+"{student_name}, आपने इस पाठ्यक्रम में क्रेडिट पाने की आवश्यकताएँ पूरी कर ली "
+"हैं। पाठ्यक्रम क्रेडिट खरीदने के लिए {a_start}अपने डैशबोर्ड पर जाएँ{a_end}।"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{student_name}, you have not yet met the requirements for credit."
+msgstr ""
+"{student_name}, आपने अभी तक क्रेडिट पाने की आवश्यकताएँ पूरी नहीं की हैं।"
+
+#: lms/templates/courseware/progress.html
+msgid "Information about course credit requirements"
+msgstr "पाठ्यक्रम क्रेडिट की आवश्यकताओं के बारे में जानकारी"
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Submitted"
+msgstr "सत्यापन सबमिट किया गया"
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Failed"
+msgstr "सत्यापन विफल रहा"
+
+#: lms/templates/courseware/progress.html
+msgid "Verification Declined"
+msgstr "सत्यापन अस्वीकृत किया गया"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "Completed by {date}"
+msgstr "{date} तक पूरा किया गया"
+
+#: lms/templates/courseware/progress.html
+msgid "Upcoming"
+msgstr "आगामी"
+
+#: lms/templates/courseware/progress.html
+msgid "Less"
+msgstr "कम"
+
+#: lms/templates/courseware/progress.html
+msgid "Details for each chapter"
+msgstr "प्रत्येक अध्याय का विवरण"
+
+#: lms/templates/courseware/progress.html
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "{earned} of {total} possible points"
+msgstr "संभावित {total} अंकों में से {earned}"
+
+#: lms/templates/courseware/progress.html
+#, python-brace-format
+msgid "due {date}"
+msgstr "नियत तिथि {date}"
+
+#: lms/templates/courseware/progress.html
+msgid ""
+"Suspicious activity detected during proctored exam review. Exam score 0."
+msgstr ""
+"निरीक्षित परीक्षा की समीक्षा के दौरान संदिग्ध गतिविधि का पता चला। परीक्षा का"
+" स्कोर 0 है।"
+
+#: lms/templates/courseware/progress.html
+msgid "Section grade has been overridden."
+msgstr "खंड के ग्रेड को ओवरराइड किया गया है।"
+
+#: lms/templates/courseware/progress.html
+msgid "Problem Scores: "
+msgstr "समस्या के स्कोर:"
+
+#: lms/templates/courseware/progress.html
+msgid "Practice Scores: "
+msgstr "अभ्यास के स्कोर:"
+
+#: lms/templates/courseware/progress.html
+msgid "Problem scores are hidden until the due date."
+msgstr "नियत तिथि तक समस्या के स्कोर छिपे रहेंगे।"
+
+#: lms/templates/courseware/progress.html
+msgid "Practice scores are hidden until the due date."
+msgstr "नियत तिथि तक अभ्यास के स्कोर छिपे रहेंगे।"
+
+#: lms/templates/courseware/progress.html
+msgid "Problem scores are hidden."
+msgstr "समस्या के स्कोर छिपे हुए हैं।"
+
+#: lms/templates/courseware/progress.html
+msgid "Practice scores are hidden."
+msgstr "अभ्यास के स्कोर छिपे हुए हैं।"
+
+#: lms/templates/courseware/progress.html
+msgid "No problem scores in this section"
+msgstr "इस खंड में समस्या का कोई स्कोर नहीं है"
+
+#: lms/templates/staff_problem_info.html:27
+msgid "Staff Debug Info"
+msgstr "कर्मचारियों के लिए डीबग जानकारी"
+
+#: lms/templates/staff_problem_info.html:31
+msgid "Submission history"
+msgstr "सबमिशन का इतिहास"
+
+#: lms/templates/preview_menu.html:101
+msgid "View in Studio"
+msgstr "Studio में देखें"
